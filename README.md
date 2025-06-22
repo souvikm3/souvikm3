@@ -12,7 +12,6 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Final-year B.E. CSE @ **Chandigarh University**
 - 💼 SDE Intern at **Seda-G-Tech**
 - 📱 Android & Flutter app developer
 - 💡 Working on **IoT-based smart health products**
