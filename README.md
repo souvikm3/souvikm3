@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Souvik Maiti 👋</h1>
 
 <p align="center">
-  🚀 Innovative Android Developer | 💻 Java Aficionado | 📊 DSA Enthusiast | 🔬 Tech Explorer | 💼 SDE Intern at Seda G-Tech
+  🚀 Innovative Android Developer | 💻 Java Aficionado | 📊 DSA Enthusiast | 🔬 Tech Explorer | 💼 SWE Intern at Seda G-Tech
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 💼 SDE Intern at **Seda-G-Tech**
+- 💼 SWE Intern at **Seda-G-Tech**
 - 📱 Android & Flutter app developer
 - 💡 Working on **IoT-based smart health products**
 
